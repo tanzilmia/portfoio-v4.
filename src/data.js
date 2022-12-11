@@ -74,8 +74,7 @@ export const navigation = [
  {
   name:'Resume',
   
-  href:`https://drive.google.com/file/d/1HTfX9D1LQNj3iD9W882EwGW0AkRU9EyN/view?usp=sharing" target="blank"
-  download="Diptonil_Singho_Dhrubo_CV.pdf"`
+  href:`https://drive.google.com/file/d/1hCQzJE98YPWN8s8yDHKZ5AgLSs_iWLEU/view?usp=share_link`
  },
  
  
@@ -85,19 +84,19 @@ export const navigation = [
 export const social = [
   {
     icon: <FiFacebook />,
-    href: 'https://www.facebook.com/ashiq.cse.bu/',
+    href: 'https://www.facebook.com/tanzilmia.01',
   },
   {
     icon: <FiLinkedin />,
-    href: 'https://www.linkedin.com/in/ashiq-cse-bu/',
+    href: 'https://www.linkedin.com/in/tanzilmia/',
   },
   {
     icon: <FiGithub />,
-    href: 'https://github.com/ashiqcsebu',
+    href: 'https://github.com/tanzilmia',
   },
   {
     icon: <FiPhoneIncoming/>,
-    href: 'https://api.whatsapp.com/send?phone=+8801758877006',
+    href: 'https://api.whatsapp.com/send?phone=+8801303443798',
   },
   
 ];
@@ -269,7 +268,7 @@ export const contact = [
     icon: <FiMail />,
     title: 'Have a question?',
     subtitle: 'Feel Free to Inbox me.',
-    description: 'Email me at ashiq.cse3.bu@gmail.com',
+    description: 'Email me at tanzilmia321@gmail.com',
   },
   {
     icon: <FiMapPin />,

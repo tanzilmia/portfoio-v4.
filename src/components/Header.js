@@ -23,7 +23,7 @@ const Header = () => {
       <div className='container mx-auto h-full flex items-center justify-between'>
    
         <a href='/'>
-          <h1 className='text-3xl font-bold'>Ashiqul Islam Shabu</h1>
+          <h1 className='text-3xl font-bold'>Md Tanzil Mia</h1>
        
         </a>
         {/* nav */}

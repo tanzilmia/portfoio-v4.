@@ -27,7 +27,7 @@ const Footer = () => {
       
           </div>
           <p className=' opacity-80 text-xl font-semibold text-center'>
-                Designed & Developed By <span className='text-white text-2xl'> Ashiqul Islam Shabu</span> 
+                Designed & Developed By <span className='text-white text-2xl'> Md Tanzil Mia</span> 
                 <br />
                  Copyright  &copy; 2022
             </p>
